@@ -1,4 +1,4 @@
 (function() {
-  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/vk\.com\/video_ext\.php\/.+/i);
+  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/vk\.com\/.+/i);
 })();
 
